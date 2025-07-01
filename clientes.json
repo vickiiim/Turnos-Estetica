@@ -1,0 +1,157 @@
+[
+    {
+        "nombre": "leandro",
+        "categoria": "Cabello",
+        "servicio": "Tinte de cabello",
+        "hora": "13:00",
+        "fecha": "2025-07-12"
+    },
+    {
+        "nombre": "leandro",
+        "categoria": "Depilación",
+        "servicio": "Depilación con hilo",
+        "hora": "11:00",
+        "fecha": "2025-07-09"
+    },
+    {
+        "nombre": "1",
+        "categoria": "Uñas",
+        "servicio": "Manicura",
+        "hora": "13:50"
+    },
+    {
+        "nombre": "1",
+        "categoria": "Cabello",
+        "servicio": "Corte de cabello",
+        "hora": "13:40"
+    },
+    {
+        "nombre": "2",
+        "categoria": "Uñas",
+        "servicio": "Pedicura",
+        "hora": "13:00"
+    },
+    {
+        "nombre": "2",
+        "categoria": "Cabello",
+        "servicio": "Tinte de cabello",
+        "hora": "12:00",
+        "fecha": "2025-06-27"
+    },
+    {
+        "nombre": "1",
+        "categoria": "Cabello",
+        "servicio": "Tinte de cabello",
+        "fecha": "2025-06-15",
+        "hora": "13:30"
+    },
+    {
+        "nombre": "sandra",
+        "categoria": "Uñas",
+        "servicio": "Pedicura",
+        "fecha": "2025-12-07",
+        "hora": "12:00"
+    },
+    {
+        "nombre": "carlos",
+        "categoria": "Uñas",
+        "servicio": "Pedicura",
+        "fecha": "2025-07-09",
+        "hora": "12:00"
+    },
+    {
+        "nombre": "sol",
+        "categoria": "Depilación",
+        "servicio": "Depilación con hilo",
+        "fecha": "2025-12-04",
+        "hora": "13:00"
+    },
+    {
+        "nombre": "sol blanc",
+        "categoria": "Cabello",
+        "servicio": "Tinte de cabello",
+        "fecha": "2025-12-07-28",
+        "hora": "12:00",
+        "id": 2
+    },
+    {
+        "nombre": "Juan  Perez",
+        "categoria": "Cabello",
+        "servicio": "Corte de cabello",
+        "fecha": "2025-06-19",
+        "hora": "16:30",
+        "id": 4
+    },
+    {
+        "nombre": "Ana Torres",
+        "categoria": "Uñas",
+        "servicio": "Manicura",
+        "fecha": "2025-06-19",
+        "hora": "18:00",
+        "id": 5
+    },
+    {
+        "nombre": "C",
+        "categoria": "Uñas",
+        "servicio": "Pedicura",
+        "fecha": "2025-07-09",
+        "hora": "12:30",
+        "id": 8
+    },
+    {
+        "nombre": "Ana María",
+        "categoria": "Cabello",
+        "servicio": "Tinte de cabello",
+        "fecha": "2025-06-24",
+        "hora": "12:00",
+        "id": 10
+    },
+    {
+        "nombre": "Lucia Lucia",
+        "categoria": "Cabello",
+        "servicio": "Peinado",
+        "fecha": "2025-06-18",
+        "hora": "12:30",
+        "id": 11
+    },
+    {
+        "nombre": "Lucia Lucia",
+        "categoria": "Cabello",
+        "servicio": "Peinado",
+        "fecha": "2025-06-18",
+        "hora": "13:00",
+        "id": 12
+    },
+    {
+        "nombre": "Belen Mamberti",
+        "categoria": "Cabello",
+        "servicio": "Tinte de cabello",
+        "fecha": "2025-06-18",
+        "hora": "16:00",
+        "id": 14
+    },
+    {
+        "nombre": "Victoria Belen",
+        "categoria": "Facial",
+        "servicio": "Masaje facial",
+        "fecha": "2025-06-18",
+        "hora": "17:30",
+        "id": 17
+    },
+    {
+        "nombre": "Belen Maria",
+        "categoria": "Uñas",
+        "servicio": "Corte de cabello",
+        "fecha": "2025-06-18",
+        "hora": "17:00",
+        "id": 19
+    },
+    {
+        "nombre": "Victoria Mamberti",
+        "categoria": "Uñas",
+        "servicio": "Pedicura",
+        "fecha": "2025-07-12",
+        "hora": "16:00",
+        "id": 20
+    }
+]
